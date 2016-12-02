@@ -1,0 +1,11 @@
+{
+  "name": "ghost-sequelize",
+  "version": "1.0.0",
+  "description": "Ghost Creative sequelize model db service wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Gerner",
+  "license": "ISC"
+}
