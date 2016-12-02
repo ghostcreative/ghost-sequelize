@@ -11,6 +11,7 @@
   "dependencies": {
     "bluebird": "^3.4.6",
     "config": "^1.24.0",
+    "node-mysql": "^0.4.2",
     "sequelize": "^3.27.0"
   },
   "devDependencies": {
