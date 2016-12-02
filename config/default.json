@@ -1,0 +1,20 @@
+{
+  "database": {
+    "mysql": {
+      "host": "localhost",
+      "username": "root",
+      "password": "password",
+      "database": "ghost_sequelize_test",
+      "options": {
+        "dialect": "mysql",
+        "logging": false,
+        "sync": {
+          "force": false
+        }
+      },
+      "models": {
+        "dirPath": "/test/models"
+      }
+    }
+  }
+}

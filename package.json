@@ -7,5 +7,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Nick Gerner",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "config": "^1.24.0",
+    "sequelize": "^3.27.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chance": "^1.0.4",
+    "mocha": "^3.2.0"
+  }
 }
