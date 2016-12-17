@@ -11,11 +11,11 @@
 ```json
 {
   "database": {
-    "host": "localhost",
     "username": "root",
     "password": "password",
     "database": "ghost_sequelize_test",
     "options": {
+      "host": "localhost",
       "dialect": "mysql",
       "logging": false,
       "sync": {
