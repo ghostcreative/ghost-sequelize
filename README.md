@@ -21,10 +21,10 @@
       "sync": {
         "force": false
       }
-    },
-    "models": {
-      "dirPath": "models" // relative to the root of your project
     }
+  },
+  "models": {
+    "dirPath": "models" // relative to the root of your project
   }
 }
 ```
